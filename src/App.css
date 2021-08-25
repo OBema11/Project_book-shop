@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiIconButton-colorSecondary {
+  color: #7051c5 !important;
+}
+
+.MuiPaginationItem-textPrimary.Mui-selected {
+  background-color: #573ba3 !important;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #573ba3 !important;
+}
+
+.MuiSlider-root {
+  color: #573ba3 !important;
+}
+
+@media all and (max-width: 960px) {
+  img {
+    width: 100vw;
+  }
+}
